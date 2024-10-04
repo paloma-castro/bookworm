@@ -50,7 +50,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
   ### **Como rodar este projeto**
   Para executar você deve clonar o repositório::
     ```sh
-    git clone https://github.com/paloma-castro/bookstore.git
+    git clone https://github.com/paloma-castro/bookworm.git
     ```
   ### Buildar, executar testes e instalar os artefatos da aplicação
   Para executar a aplicação, utilize o comando Maven:
