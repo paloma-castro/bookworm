@@ -66,6 +66,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
 
   ### **Para utilizar**
   Utilizar uma ferramenta que possibilite testar requisições e utilize os endpoints. Exemplo: Postman, Insomnia.
+  Também é possível utilizar no swagger: http://localhost:8080/swagger-ui/index.html#/
 
   ### **Valores para teste**
   - Exemplos autores:
