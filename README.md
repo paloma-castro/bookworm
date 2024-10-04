@@ -68,7 +68,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
   Utilizar uma ferramenta que possibilite testar requisições e utilize os endpoints. Exemplo: Postman, Insomnia.
 
   ### **Valores para teste**
-  - Exemplos generos:
+  - Exemplos autores:
     - "Noel Lang"
     - "Tamie Reinger"
     - "Cari Borer"
@@ -80,7 +80,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
     - "Sunny Mante"
     - "Abby Kiehn"
     - "Galina Pfannerstill III"
-  - Exemplos autores:
+  - Exemplos gêneros:
     - "Fantasy"
     - "Thriller"
     - "Comedy"
