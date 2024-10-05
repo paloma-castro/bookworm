@@ -36,7 +36,7 @@ public class BookController {
         return bookService.findByGenre(pageable, genre);
     }
 
-    @GetMapping("/autor/{author}")
+    @GetMapping("/author/{author}")
     public ResponseEntity<Page<Book>> findByAuthor(@PageableDefault(size = 10) Pageable pageable,@PathVariable String author){
         return bookService.findByAuthor(pageable, author);
     }
