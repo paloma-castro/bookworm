@@ -50,7 +50,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
   ### **Como rodar este projeto**
   Para executar você deve clonar o repositório::
     ```sh
-    git clone https://github.com/paloma-castro/bookstore.git
+    git clone https://github.com/paloma-castro/bookworm.git
     ```
   ### Buildar, executar testes e instalar os artefatos da aplicação
   Para executar a aplicação, utilize o comando Maven:
@@ -66,9 +66,10 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
 
   ### **Para utilizar**
   Utilizar uma ferramenta que possibilite testar requisições e utilize os endpoints. Exemplo: Postman, Insomnia.
+  Também é possível utilizar no swagger: http://localhost:8080/swagger-ui/index.html#/
 
   ### **Valores para teste**
-  - Exemplos generos:
+  - Exemplos autores:
     - "Noel Lang"
     - "Tamie Reinger"
     - "Cari Borer"
@@ -80,7 +81,7 @@ Esse projeto é sobre uma API de leitura de dados sobre livros. É possível obt
     - "Sunny Mante"
     - "Abby Kiehn"
     - "Galina Pfannerstill III"
-  - Exemplos autores:
+  - Exemplos gêneros:
     - "Fantasy"
     - "Thriller"
     - "Comedy"
